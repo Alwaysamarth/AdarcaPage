@@ -1,6 +1,6 @@
 import React from 'react';
 import { Brain, Twitter, Linkedin, Github } from 'lucide-react';
-import Container from './common/Container';
+import Container from './Container';
 
 const navigation = {
   solutions: [
