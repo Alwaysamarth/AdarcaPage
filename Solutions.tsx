@@ -1,6 +1,6 @@
 import React from 'react';
 import { Brain, BarChart3, Users, Zap, Shield } from 'lucide-react';
-import Container from './common/Container';
+import Container from './Container';
 
 const solutions = [
   {
