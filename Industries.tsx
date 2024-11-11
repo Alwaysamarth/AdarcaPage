@@ -1,6 +1,6 @@
 import React from 'react';
 import { Radio, Tv, Signal, Film } from 'lucide-react';
-import Container from './common/Container';
+import Container from './Container';
 
 const industries = [
   {
