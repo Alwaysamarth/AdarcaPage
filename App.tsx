@@ -1,9 +1,9 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Solutions from './components/Solutions';
-import Industries from './components/Industries';
-import Footer from './components/Footer';
+import Navbar from './Navbar';
+import Hero from './Hero';
+import Solutions from './Solutions';
+import Industries from './Industries';
+import Footer from './Footer';
 
 function App() {
   return (
