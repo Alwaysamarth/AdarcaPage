@@ -1,7 +1,7 @@
 import React from 'react';
-import Container from './common/Container';
-import Button from './common/Button';
-import Stat from './common/Stat';
+import Container from './Container';
+import Button from './Button';
+import Stat from './Stat';
 
 const stats = [
   { value: '30%', label: 'Cost Reduction' },
